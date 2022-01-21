@@ -1,0 +1,32 @@
+h2 {
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+   }
+
+ul {
+    list-style-type: none;
+}
+
+.activity {
+    display: block; 
+    border: 2px solid gainsboro; 
+    border-radius: 4px;
+    margin: 5px; 
+    padding: 3px;
+    text-align: center;
+}
+
+.call-direction {
+    float: left; 
+}
+
+.activity img {
+   height: 15px;
+   width: 15px;
+}
+
+.from-to {
+    font-weight: 600;
+}

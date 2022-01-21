@@ -1,0 +1,26 @@
+.details {
+    display: block;
+}
+
+.details h2 {
+    margin: 30px;
+    text-align: center;
+}
+
+
+.call-details {
+    padding: 10px;
+    border: 2px solid gainsboro; 
+    border-radius: 4px;
+}
+
+.call-direction img {
+    padding: 10px;
+    height: 15px;
+    width: 15px;
+}
+
+.call-information {
+    text-align: center;
+}
+
